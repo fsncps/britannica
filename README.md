@@ -2,9 +2,12 @@
 
 A public-domain preservation and transformation project.
 
-This project aims to make the *1911 Encyclopædia Britannica* (EB11) fully accessible in modern formats: searchable, cleanly structured, and analyzable. EB11 remains one of the most ambitious encyclopedic projects in history, but its text has never been systematically corrected or semantically indexed.
+This project aims to make the *1911 Encyclopædia Britannica 11th edition* (EB11) fully accessible in modern formats: searchable, cleanly structured, and analyzable. EB11 remains one of the most ambitious encyclopedic projects in history, but its text has never been systematically corrected or semantically indexed.
 
-Alongside creating a modern reading experience, the project aims to **analyze epistemic and rhetorical shifts** by comparing EB11 articles to their modern Wikipedia counterparts using **semantic similarity**, tone, and linguistic framing.
+Alongside creating a modern reading experience, the project aims to analyze epistemic and rhetorical shifts by comparing EB11 articles to their modern Wikipedia counterparts using semantic similarity, tone, and linguistic framing.
+
+**[HERE](https://eb.kallisti.ch)** is the first version of extracted texts.
+
 
 ---
 
