@@ -1,0 +1,449 @@
+ There are many natural scientists, and especially physicists, who continue to reject the notion that the disciplines concerned with social and cultural criticism can have anything to contribute, except perhaps peripherally, to their research. Still less are they receptive to the idea that the very foundations of their worldview must be revised or rebuilt in the light of such criticism. Rather, they cling to the dogma imposed by the long post-Enlightenment hegemony over the Western intellectual outlook, which can be summarized briefly as follows: that there exists an external world, whose properties are independent of any individual human being and indeed of humanity as a whole; that these properties are encoded in ``eternal'' physical laws; and that human beings can obtain reliable, albeit imperfect and tentative, knowledge of these laws by hewing to the ``objective'' procedures and epistemological strictures prescribed by the (so-called) scientific method.
+
+But deep conceptual shifts within twentieth-century science have undermined this Cartesian-Newtonian metaphysics1; revisionist studies in the history and philosophy of science have cast further doubt on its credibility2; and, most recently, feminist and poststructuralist critiques have demystified the substantive content of mainstream Western scientific practice, revealing the ideology of domination concealed behind the façade of ``objectivity''.3 It has thus become increasingly apparent that physical ``reality'', no less than social ``reality'', is at bottom a social and linguistic construct; that scientific ``knowledge", far from being objective, reflects and encodes the dominant ideologies and power relations of the culture that produced it; that the truth claims of science are inherently theory-laden and self-referential; and consequently, that the discourse of the scientific community, for all its undeniable value, cannot assert a privileged epistemological status with respect to counter-hegemonic narratives emanating from dissident or marginalized communities. These themes can be traced, despite some differences of emphasis, in Aronowitz's analysis of the cultural fabric that produced quantum mechanics4; in Ross' discussion of oppositional discourses in post-quantum science5; in Irigaray's and Hayles' exegeses of gender encoding in fluid mechanics6; and in Harding's comprehensive critique of the gender ideology underlying the natural sciences in general and physics in particular.7
+
+Here my aim is to carry these deep analyses one step farther, by taking account of recent developments in quantum gravity: the emerging branch of physics in which Heisenberg's quantum mechanics and Einstein's general relativity are at once synthesized and superseded. In quantum gravity, as we shall see, the space-time manifold ceases to exist as an objective physical reality; geometry becomes relational and contextual; and the foundational conceptual categories of prior science -- among them, existence itself -- become problematized and relativized. This conceptual revolution, I will argue, has profound implications for the content of a future postmodern and liberatory science.
+
+My approach will be as follows: First I will review very briefly some of the philosophical and ideological issues raised by quantum mechanics and by classical general relativity. Next I will sketch the outlines of the emerging theory of quantum gravity, and discuss some of the conceptual issues it raises. Finally, I will comment on the cultural and political implications of these scientific developments. It should be emphasized that this article is of necessity tentative and preliminary; I do not pretend to answer all of the questions that I raise. My aim is, rather, to draw the attention of readers to these important developments in physical science, and to sketch as best I can their philosophical and political implications. I have endeavored here to keep mathematics to a bare minimum; but I have taken care to provide references where interested readers can find all requisite details.
+
+Quantum Mechanics: Uncertainty, Complementarity, Discontinuity and Interconnectedness
+
+It is not my intention to enter here into the extensive debate on the conceptual foundations of quantum mechanics.8 Suffice it to say that anyone who has seriously studied the equations of quantum mechanics will assent to Heisenberg's measured (pardon the pun) summary of his celebrated uncertainty principle:
+
+    We can no longer speak of the behaviour of the particle independently of the process of observation. As a final consequence, the natural laws formulated mathematically in quantum theory no longer deal with the elementary particles themselves but with our knowledge of them. Nor is it any longer possible to ask whether or not these particles exist in space and time objectively ...
+
+    When we speak of the picture of nature in the exact science of our age, we do not mean a picture of nature so much as a picture of our relationships with nature. ... Science no longer confronts nature as an objective observer, but sees itself as an actor in this interplay between man [sic] and nature. The scientific method of analysing, explaining and classifying has become conscious of its limitations, which arise out of the fact that by its intervention science alters and refashions the object of investigation. In other words, method and object can no longer be separated.9 10 
+
+Along the same lines, Niels Bohr wrote:
+
+    An independent reality in the ordinary physical sense can ... neither be ascribed to the phenomena nor to the agencies of observation.11 
+
+Stanley Aronowitz has convincingly traced this worldview to the crisis of liberal hegemony in Central Europe in the years prior and subsequent to World War I.12 13
+
+A second important aspect of quantum mechanics is its principle of complementarity or dialecticism. Is light a particle or a wave? Complementarity ``is the realization that particle and wave behavior are mutually exclusive, yet that both are necessary for a complete description of all phenomena.''14 More generally, notes Heisenberg,
+
+    the different intuitive pictures which we use to describe atomic systems, although fully adequate for given experiments, are nevertheless mutually exclusive. Thus, for instance, the Bohr atom can be described as a small-scale planetary system, having a central atomic nucleus about which the external electrons revolve. For other experiments, however, it might be more convenient to imagine that the atomic nucleus is surrounded by a system of stationary waves whose frequency is characteristic of the radiation emanating from the atom. Finally, we can consider the atom chemically. ... Each picture is legitimate when used in the right place, but the different pictures are contradictory and therefore we call them mutually complementary.15 
+
+And once again Bohr:
+
+    A complete elucidation of one and the same object may require diverse points of view which defy a unique description. Indeed, strictly speaking, the conscious analysis of any concept stands in a relation of exclusion to its immediate application.16 
+
+This foreshadowing of postmodernist epistemology is by no means coincidental. The profound connections between complementarity and deconstruction have recently been elucidated by Froula17 and Honner18, and, in great depth, by Plotnitsky.19 20 21
+
+A third aspect of quantum physics is discontinuity or rupture: as Bohr explained,
+
+    [the] essence [of the quantum theory] may be expressed in the so-called quantum postulate, which attributes to any atomic process an essential discontinuity, or rather individuality, completely foreign to the classical theories and symbolized by Planck's quantum of action.22 
+
+A half-century later, the expression ``quantum leap'' has so entered our everyday vocabulary that we are likely to use it without any consciousness of its origins in physical theory.
+
+Finally, Bell's theorem23 and its recent generalizations24 show that an act of observation here and now can affect not only the object being observed -- as Heisenberg told us -- but also an object arbitrarily far away (say, on Andromeda galaxy). This phenomenon -- which Einstein termed ``spooky'' -- imposes a radical reevaluation of the traditional mechanistic concepts of space, object and causality25, and suggests an alternative worldview in which the universe is characterized by interconnectedness and (w)holism: what physicist David Bohm has called ``implicate order''.26 New Age interpretations of these insights from quantum physics have often gone overboard in unwarranted speculation, but the general soundness of the argument is undeniable.27 In Bohr's words, ``Planck's discovery of the elementary quantum of action ... revealed a feature of wholeness inherent in atomic physics, going far beyond the ancient idea of the limited divisibility of matter.''28
+
+Hermeneutics of Classical General Relativity
+
+In the Newtonian mechanistic worldview, space and time are distinct and absolute.29 In Einstein's special theory of relativity (1905), the distinction between space and time dissolves: there is only a new unity, four-dimensional space-time, and the observer's perception of ``space'' and ``time'' depends on her state of motion.30 In Hermann Minkowski's famous words (1908):
+
+    Henceforth space by itself, and time by itself, are doomed to fade away into mere shadows, and only a kind of union of the two will preserve an independent reality.31 
+
+Nevertheless, the underlying geometry of Minkowskian space-time remains absolute.32
+
+It is in Einstein's general theory of relativity (1915) that the radical conceptual break occurs: the space-time geometry becomes contingent and dynamical, encoding in itself the gravitational field. Mathematically, Einstein breaks with the tradition dating back to Euclid (and which is inflicted on high-school students even today!), and employs instead the non-Euclidean geometry developed by Riemann. Einstein's equations are highly nonlinear, which is why traditionally-trained mathematicians find them so difficult to solve.33 Newton's gravitational theory corresponds to the crude (and conceptually misleading) truncation of Einstein's equations in which the nonlinearity is simply ignored. Einstein's general relativity therefore subsumes all the putative successes of Newton's theory, while going beyond Newton to predict radically new phenomena that arise directly from the nonlinearity: the bending of starlight by the sun, the precession of the perihelion of Mercury, and the gravitational collapse of stars into black holes.
+
+General relativity is so weird that some of its consequences -- deduced by impeccable mathematics, and increasingly confirmed by astrophysical observation -- read like science fiction. Black holes are by now well known, and wormholes are beginning to make the charts. Perhaps less familiar is Gödel's construction of an Einstein space-time admitting closed timelike curves: that is, a universe in which it is possible to travel into one's own past!34
+
+Thus, general relativity forces upon us radically new and counterintuitive notions of space, time and causality35 36 37 38; so it is not surprising that it has had a profound impact not only on the natural sciences but also on philosophy, literary criticism, and the human sciences. For example, in a celebrated symposium three decades ago on Les Langages Critiques et les Sciences de l'Homme, Jean Hyppolite raised an incisive question about Jacques Derrida's theory of structure and sign in scientific discourse:
+
+    When I take, for example, the structure of certain algebraic constructions [ensembles], where is the center? Is the center the knowledge of general rules which, after a fashion, allow us to understand the interplay of the elements? Or is the center certain elements which enjoy a particular privilege within the ensemble? ... With Einstein, for example, we see the end of a kind of privilege of empiric evidence. And in that connection we see a constant appear, a constant which is a combination of space-time, which does not belong to any of the experimenters who live the experience, but which, in a way, dominates the whole construct; and this notion of the constant -- is this the center?39 
+
+Derrida's perceptive reply went to the heart of classical general relativity:
+
+    The Einsteinian constant is not a constant, is not a center. It is the very concept of variability -- it is, finally, the concept of the game. In other words, it is not the concept of something -- of a center starting from which an observer could master the field -- but the very concept of the game ...40 
+
+In mathematical terms, Derrida's observation relates to the invariance of the Einstein field equation tex2html_wrap_inline1393 under nonlinear space-time diffeomorphisms (self-mappings of the space-time manifold which are infinitely differentiable but not necessarily analytic). The key point is that this invariance group ``acts transitively'': this means that any space-time point, if it exists at all, can be transformed into any other. In this way the infinite-dimensional invariance group erodes the distinction between observer and observed; the tex2html_wrap_inline1395 of Euclid and the G of Newton, formerly thought to be constant and universal, are now perceived in their ineluctable historicity; and the putative observer becomes fatally de-centered, disconnected from any epistemic link to a space-time point that can no longer be defined by geometry alone.
+
+Quantum Gravity: String, Weave or Morphogenetic Field?
+
+However, this interpretation, while adequate within classical general relativity, becomes incomplete within the emerging postmodern view of quantum gravity. When even the gravitational field -- geometry incarnate -- becomes a non-commuting (and hence nonlinear) operator, how can the classical interpretation of tex2html_wrap_inline1399 as a geometric entity be sustained? Now not only the observer, but the very concept of geometry, becomes relational and contextual.
+
+The synthesis of quantum theory and general relativity is thus the central unsolved problem of theoretical physics41; no one today can predict with confidence what will be the language and ontology, much less the content, of this synthesis, when and if it comes. It is, nevertheless, useful to examine historically the metaphors and imagery that theoretical physicists have employed in their attempts to understand quantum gravity.
+
+The earliest attempts -- dating back to the early 1960's -- to visualize geometry on the Planck scale (about tex2html_wrap_inline1403 centimeters) portrayed it as ``space-time foam'': bubbles of space-time curvature, sharing a complex and ever-changing topology of interconnections.42 But physicists were unable to carry this approach farther, perhaps due to the inadequate development at that time of topology and manifold theory (see below).
+
+In the 1970's physicists tried an even more conventional approach: simplify the Einstein equations by pretending that they are almost linear, and then apply the standard methods of quantum field theory to the thus-oversimplified equations. But this method, too, failed: it turned out that Einstein's general relativity is, in technical language, ``perturbatively nonrenormalizable''.43 This means that the strong nonlinearities of Einstein's general relativity are intrinsic to the theory; any attempt to pretend that the nonlinearities are weak is simply self-contradictory. (This is not surprising: the almost-linear approach destroys the most characteristic features of general relativity, such as black holes.)
+
+In the 1980's a very different approach, known as string theory, became popular: here the fundamental constituents of matter are not point-like particles but rather tiny (Planck-scale) closed and open strings.44 In this theory, the space-time manifold does not exist as an objective physical reality; rather, space-time is a derived concept, an approximation valid only on large length scales (where ``large'' means ``much larger than tex2html_wrap_inline1403 centimeters''!). For a while many enthusiasts of string theory thought they were closing in on a Theory of Everything -- modesty is not one of their virtues -- and some still think so. But the mathematical difficulties in string theory are formidable, and it is far from clear that they will be resolved any time soon.
+
+More recently, a small group of physicists has returned to the full nonlinearities of Einstein's general relativity, and -- using a new mathematical symbolism invented by Abhay Ashtekar -- they have attempted to visualize the structure of the corresponding quantum theory.45 The picture they obtain is intriguing: As in string theory, the space-time manifold is only an approximation valid at large distances, not an objective reality. At small (Planck-scale) distances, the geometry of space-time is a weave: a complex interconnection of threads.
+
+Finally, an exciting proposal has been taking shape over the past few years in the hands of an interdisciplinary collaboration of mathematicians, astrophysicists and biologists: this is the theory of the morphogenetic field.46 Since the mid-1980's evidence has been accumulating that this field, first conceptualized by developmental biologists47, is in fact closely linked to the quantum gravitational field48: (a) it pervades all space; (b) it interacts with all matter and energy, irrespective of whether or not that matter/energy is magnetically charged; and, most significantly, (c) it is what is known mathematically as a ``symmetric second-rank tensor''. All three properties are characteristic of gravity; and it was proven some years ago that the only self-consistent nonlinear theory of a symmetric second-rank tensor field is, at least at low energies, precisely Einstein's general relativity.49 Thus, if the evidence for (a), (b) and (c) holds up, we can infer that the morphogenetic field is the quantum counterpart of Einstein's gravitational field. Until recently this theory has been ignored or even scorned by the high-energy-physics establishment, who have traditionally resented the encroachment of biologists (not to mention humanists) on their ``turf''.50 However, some theoretical physicists have recently begun to give this theory a second look, and there are good prospects for progress in the near future.51
+
+It is still too soon to say whether string theory, the space-time weave or morphogenetic fields will be confirmed in the laboratory: the experiments are not easy to perform. But it is intriguing that all three theories have similar conceptual characteristics: strong nonlinearity, subjective space-time, inexorable flux, and a stress on the topology of interconnectedness.
+
+Differential Topology and Homology
+
+Unbeknownst to most outsiders, theoretical physics underwent a significant transformation -- albeit not yet a true Kuhnian paradigm shift -- in the 1970's and 80's: the traditional tools of mathematical physics (real and complex analysis), which deal with the space-time manifold only locally, were supplemented by topological approaches (more precisely, methods from differential topology52) that account for the global (holistic) structure of the universe. This trend was seen in the analysis of anomalies in gauge theories53; in the theory of vortex-mediated phase transitions54; and in string and superstring theories.55 Numerous books and review articles on ``topology for physicists'' were published during these years.56
+
+At about the same time, in the social and psychological sciences Jacques Lacan pointed out the key role played by differential topology:
+
+    This diagram [the Möbius strip] can be considered the basis of a sort of essential inscription at the origin, in the knot which constitutes the subject. This goes much further than you may think at first, because you can search for the sort of surface able to receive such inscriptions. You can perhaps see that the sphere, that old symbol for totality, is unsuitable. A torus, a Klein bottle, a cross-cut surface, are able to receive such a cut. And this diversity is very important as it explains many things about the structure of mental disease. If one can symbolize the subject by this fundamental cut, in the same way one can show that a cut on a torus corresponds to the neurotic subject, and on a cross-cut surface to another sort of mental disease.57 58 
+
+As Althusser rightly commented, ``Lacan finally gives Freud's thinking the scientific concepts that it requires''.59 More recently, Lacan's topologie du sujet has been applied fruitfully to cinema criticism60 and to the psychoanalysis of AIDS.61 In mathematical terms, Lacan is here pointing out that the first homology group62 of the sphere is trivial, while those of the other surfaces are profound; and this homology is linked with the connectedness or disconnectedness of the surface after one or more cuts.63 Furthermore, as Lacan suspected, there is an intimate connection between the external structure of the physical world and its inner psychological representation qua knot theory: this hypothesis has recently been confirmed by Witten's derivation of knot invariants (in particular the Jones polynomial64) from three-dimensional Chern-Simons quantum field theory.65
+
+Analogous topological structures arise in quantum gravity, but inasmuch as the manifolds involved are multidimensional rather than two-dimensional, higher homology groups play a role as well. These multidimensional manifolds are no longer amenable to visualization in conventional three-dimensional Cartesian space: for example, the projective space tex2html_wrap_inline1407 , which arises from the ordinary 3-sphere by identification of antipodes, would require a Euclidean embedding space of dimension at least 5. 66 Nevertheless, the higher homology groups can be perceived, at least approximately, via a suitable multidimensional (nonlinear) logic.67 68
+
+Manifold Theory: (W)holes and Boundaries
+
+Luce Irigaray, in her famous article ``Is the Subject of Science Sexed?'', pointed out that
+
+    the mathematical sciences, in the theory of wholes [théorie des ensembles], concern themselves with closed and open spaces ... They concern themselves very little with the question of the partially open, with wholes that are not clearly delineated [ensembles flous], with any analysis of the problem of borders [bords] ...69 
+
+In 1982, when Irigaray's essay first appeared, this was an incisive criticism: differential topology has traditionally privileged the study of what are known technically as ``manifolds without boundary''. However, in the past decade, under the impetus of the feminist critique, some mathematicians have given renewed attention to the theory of ``manifolds with boundary'' [Fr. variétés à bord].70 Perhaps not coincidentally, it is precisely these manifolds that arise in the new physics of conformal field theory, superstring theory and quantum gravity.
+
+In string theory, the quantum-mechanical amplitude for the interaction of n closed or open strings is represented by a functional integral (basically, a sum) over fields living on a two-dimensional manifold with boundary.71 In quantum gravity, we may expect that a similar representation will hold, except that the two-dimensional manifold with boundary will be replaced by a multidimensional one. Unfortunately, multidimensionality goes against the grain of conventional linear mathematical thought, and despite a recent broadening of attitudes (notably associated with the study of multidimensional nonlinear phenomena in chaos theory), the theory of multidimensional manifolds with boundary remains somewhat underdeveloped. Nevertheless, physicists' work on the functional-integral approach to quantum gravity continues apace72, and this work is likely to stimulate the attention of mathematicians.73
+
+As Irigaray anticipated, an important question in all of these theories is: Can the boundary be transgressed (crossed), and if so, what happens then? Technically this is known as the problem of ``boundary conditions''. At a purely mathematical level, the most salient aspect of boundary conditions is the great diversity of possibilities: for example, ``free b.c.'' (no obstacle to crossing), ``reflecting b.c.'' (specular reflection as in a mirror), ``periodic b.c.'' (re-entrance in another part of the manifold), and ``antiperiodic b.c.'' (re-entrance with tex2html_wrap_inline1413 twist). The question posed by physicists is: Of all these conceivable boundary conditions, which ones actually occur in the representation of quantum gravity? Or perhaps, do all of them occur simultaneously and on an equal footing, as suggested by the complementarity principle?74
+
+At this point my summary of developments in physics must stop, for the simple reason that the answers to these questions -- if indeed they have univocal answers -- are not yet known. In the remainder of this essay, I propose to take as my starting point those features of the theory of quantum gravity which are relatively well established (at least by the standards of conventional science), and attempt to draw out their philosophical and political implications.
+
+Transgressing the Boundaries: Towards a Liberatory Science
+
+Over the past two decades there has been extensive discussion among critical theorists with regard to the characteristics of modernist versus postmodernist culture; and in recent years these dialogues have begun to devote detailed attention to the specific problems posed by the natural sciences.75 In particular, Madsen and Madsen have recently given a very clear summary of the characteristics of modernist versus postmodernist science. They posit two criteria for a postmodern science:
+
+    A simple criterion for science to qualify as postmodern is that it be free from any dependence on the concept of objective truth. By this criterion, for example, the complementarity interpretation of quantum physics due to Niels Bohr and the Copenhagen school is seen as postmodernist.76 
+
+Clearly, quantum gravity is in this respect an archetypal postmodernist science. Secondly,
+
+    The other concept which can be taken as being fundamental to postmodern science is that of essentiality. Postmodern scientific theories are constructed from those theoretical elements which are essential for the consistency and utility of the theory.77 
+
+Thus, quantities or objects which are in principle unobservable -- such as space-time points, exact particle positions, or quarks and gluons -- ought not to be introduced into the theory.78 While much of modern physics is excluded by this criterion, quantum gravity again qualifies: in the passage from classical general relativity to the quantized theory, space-time points (and indeed the space-time manifold itself) have disappeared from the theory.
+
+However, these criteria, admirable as they are, are insufficient for a liberatory postmodern science: they liberate human beings from the tyranny of ``absolute truth'' and ``objective reality'', but not necessarily from the tyranny of other human beings. In Andrew Ross' words, we need a science ``that will be publicly answerable and of some service to progressive interests.''79 From a feminist standpoint, Kelly Oliver makes a similar argument:
+
+    ... in order to be revolutionary, feminist theory cannot claim to describe what exists, or, ``natural facts.'' Rather, feminist theories should be political tools, strategies for overcoming oppression in specific concrete situations. The goal, then, of feminist theory, should be to develop strategic theories -- not true theories, not false theories, but strategic theories.80 
+
+How, then, is this to be done?
+
+In what follows, I would like to discuss the outlines of a liberatory postmodern science on two levels: first, with regard to general themes and attitudes; and second, with regard to political goals and strategies.
+
+One characteristic of the emerging postmodern science is its stress on nonlinearity and discontinuity: this is evident, for example, in chaos theory and the theory of phase transitions as well as in quantum gravity.81 At the same time, feminist thinkers have pointed out the need for an adequate analysis of fluidity, in particular turbulent fluidity.82 These two themes are not as contradictory as it might at first appear: turbulence connects with strong nonlinearity, and smoothness/fluidity is sometimes associated with discontinuity (e.g. in catastrophe theory83); so a synthesis is by no means out of the question.
+
+Secondly, the postmodern sciences deconstruct and transcend the Cartesian metaphysical distinctions between humankind and Nature, observer and observed, Subject and Object. Already quantum mechanics, earlier in this century, shattered the ingenuous Newtonian faith in an objective, pre-linguistic world of material objects ``out there''; no longer could we ask, as Heisenberg put it, whether ``particles exist in space and time objectively''. But Heisenberg's formulation still presupposes the objective existence of space and time as the neutral, unproblematic arena in which quantized particle-waves interact (albeit indeterministically); and it is precisely this would-be arena that quantum gravity problematizes. Just as quantum mechanics informs us that the position and momentum of a particle are brought into being only by the act of observation, so quantum gravity informs us that space and time themselves are contextual, their meaning defined only relative to the mode of observation.84
+
+Thirdly, the postmodern sciences overthrow the static ontological categories and hierarchies characteristic of modernist science. In place of atomism and reductionism, the new sciences stress the dynamic web of relationships between the whole and the part; in place of fixed individual essences (e.g. Newtonian particles), they conceptualize interactions and flows (e.g. quantum fields). Intriguingly, these homologous features arise in numerous seemingly disparate areas of science, from quantum gravity to chaos theory to the biophysics of self-organizing systems. In this way, the postmodern sciences appear to be converging on a new epistemological paradigm, one that may be termed an ecological perspective, broadly understood as ``recogniz[ing] the fundamental interdependence of all phenomena and the embeddedness of individuals and societies in the cyclical patterns of nature.''85
+
+A fourth aspect of postmodern science is its self-conscious stress on symbolism and representation. As Robert Markley points out, the postmodern sciences are increasingly transgressing disciplinary boundaries, taking on characteristics that had heretofore been the province of the humanities:
+
+    Quantum physics, hadron bootstrap theory, complex number theory, and chaos theory share the basic assumption that reality cannot be described in linear terms, that nonlinear -- and unsolvable -- equations are the only means possible to describe a complex, chaotic, and non-deterministic reality. These postmodern theories are -- significantly -- all metacritical in the sense that they foreground themselves as metaphors rather than as ``accurate'' descriptions of reality. In terms that are more familiar to literary theorists than to theoretical physicists, we might say that these attempts by scientists to develop new strategies of description represent notes towards a theory of theories, of how representation -- mathematical, experimental, and verbal -- is inherently complex and problematizing, not a solution but part of the semiotics of investigating the universe.86 87 
+
+From a different starting point, Aronowitz likewise suggests that a liberatory science may arise from interdisciplinary sharing of epistemologies:
+
+    ... natural objects are also socially constructed. It is not a question of whether these natural objects, or, to be more precise, the objects of natural scientific knowledge, exist independently of the act of knowing. This question is answered by the assumption of ``real'' time as opposed to the presupposition, common among neo-Kantians, that time always has a referent, that temporality is therefore a relative, not an unconditioned, category. Surely, the earth evolved long before life on earth. The question is whether objects of natural scientific knowledge are constituted outside the social field. If this is possible, we can assume that science or art may develop procedures that effectively neutralize the effects emanating from the means by which we produce knowledge/art. Performance art may be such an attempt.88 
+
+Finally, postmodern science provides a powerful refutation of the authoritarianism and elitism inherent in traditional science, as well as an empirical basis for a democratic approach to scientific work. For, as Bohr noted, ``a complete elucidation of one and the same object may require diverse points of view which defy a unique description'' -- this is quite simply a fact about the world, much as the self-proclaimed empiricists of modernist science might prefer to deny it. In such a situation, how can a self-perpetuating secular priesthood of credentialed ``scientists'' purport to maintain a monopoly on the production of scientific knowledge? (Let me emphasize that I am in no way opposed to specialized scientific training; I object only when an elite caste seeks to impose its canon of ``high science'', with the aim of excluding a priori alternative forms of scientific production by non-members.89)
+
+The content and methodology of postmodern science thus provide powerful intellectual support for the progressive political project, understood in its broadest sense: the transgressing of boundaries, the breaking down of barriers, the radical democratization of all aspects of social, economic, political and cultural life.90 Conversely, one part of this project must involve the construction of a new and truly progressive science that can serve the needs of such a democratized society-to-be. As Markley observes, there seem to be two more-or-less mutually exclusive choices available to the progressive community:
+
+    On the one hand, politically progressive scientists can try to recuperate existing practices for moral values they uphold, arguing that their right-wing enemies are defacing nature and that they, the counter-movement, have access to the truth. [But] the state of the biosphere -- air pollution, water pollution, disappearing rain forests, thousands of species on the verge of extinction, large areas of land burdened far beyond their carrying capacity, nuclear power plants, nuclear weapons, clearcuts where there used to be forests, starvation, malnutrition, disappearing wetlands, nonexistent grass lands, and a rash of environmentally caused diseases -- suggests that the realist dream of scientific progress, of recapturing rather than revolutionizing existing methodologies and technologies, is, at worst, irrelevant to a political struggle that seeks something more than a reenactment of state socialism.91 
+
+The alternative is a profound reconception of science as well as politics:
+
+    [T]he dialogical move towards redefining systems, of seeing the world not only as an ecological whole but as a set of competing systems -- a world held together by the tensions among various natural and human interests -- offers the possibility of redefining what science is and what it does, of restructuring deterministic schemes of scientific education in favor of ongoing dialogues about how we intervene in our environment.92 
+
+It goes without saying that postmodernist science unequivocally favors the latter, deeper approach.
+
+In addition to redefining the content of science, it is imperative to restructure and redefine the institutional loci in which scientific labor takes place -- universities, government labs, and corporations -- and reframe the reward system that pushes scientists to become, often against their own better instincts, the hired guns of capitalists and the military. As Aronowitz has noted, ``One third of the 11,000 physics graduate students in the United States are in the single subfield of solid state physics, and all of them will be able to get jobs in that subfield.''93 By contrast, there are few jobs available in either quantum gravity or environmental physics.
+
+But all this is only a first step: the fundamental goal of any emancipatory movement must be to demystify and democratize the production of scientific knowledge, to break down the artificial barriers that separate ``scientists'' from ``the public''. Realistically, this task must start with the younger generation, through a profound reform of the educational system.94 The teaching of science and mathematics must be purged of its authoritarian and elitist characteristics95, and the content of these subjects enriched by incorporating the insights of the feminist96, queer97, multiculturalist98 and ecological99 critiques.
+
+Finally, the content of any science is profoundly constrained by the language within which its discourses are formulated; and mainstream Western physical science has, since Galileo, been formulated in the language of mathematics.100 101 But whose mathematics? The question is a fundamental one, for, as Aronowitz has observed, ``neither logic nor mathematics escapes the `contamination' of the social.''102 And as feminist thinkers have repeatedly pointed out, in the present culture this contamination is overwhelmingly capitalist, patriarchal and militaristic: ``mathematics is portrayed as a woman whose nature desires to be the conquered Other.''103 104 Thus, a liberatory science cannot be complete without a profound revision of the canon of mathematics.105 As yet no such emancipatory mathematics exists, and we can only speculate upon its eventual content. We can see hints of it in the multidimensional and nonlinear logic of fuzzy systems theory106; but this approach is still heavily marked by its origins in the crisis of late-capitalist production relations.107 Catastrophe theory108, with its dialectical emphases on smoothness/discontinuity and metamorphosis/unfolding, will indubitably play a major role in the future mathematics; but much theoretical work remains to be done before this approach can become a concrete tool of progressive political praxis.109 Finally, chaos theory -- which provides our deepest insights into the ubiquitous yet mysterious phenomenon of nonlinearity -- will be central to all future mathematics. And yet, these images of the future mathematics must remain but the haziest glimmer: for, alongside these three young branches in the tree of science, there will arise new trunks and branches -- entire new theoretical frameworks -- of which we, with our present ideological blinders, cannot yet even conceive.
+
+Acknowledgments
+
+I wish to thank Giacomo Caracciolo, Lucía Fernández-Santoro, Lia Gutiérrez and Elizabeth Meiklejohn for enjoyable discussions which have contributed greatly to this article. Needless to say, these people should not be assumed to be in total agreement with the scientific and political views expressed here, nor are they responsible for any errors or obscurities which may inadvertently remain. 
+
+
+
+
+
+PENIS
+
+SOCIOLOGY | RESEARCH ARTICLE
+The conceptual penis as a social construct
+Jamie Lindsay1
+* and Peter Boyle1
+Abstract: Anatomical penises may exist, but as pre-operative transgendered women
+also have anatomical penises, the penis vis-à-vis maleness is an incoherent con-
+struct. We argue that the conceptual penis is better understood not as an anatomi-
+cal organ but as a social construct isomorphic to performative toxic masculinity.
+Through detailed poststructuralist discursive criticism and the example of climate
+change, this paper will challenge the prevailing and damaging social trope that
+penises are best understood as the male sexual organ and reassign it a more fitting
+role as a type of masculine performance.
+Subjects: Gender Studies - Soc Sci; Postmodernism of Cultural Theory; Feminism
+Keywords: penis; feminism; machismo braggadocio; masculinity; climate change
+1. Introduction
+The androcentric scientific and meta-scientific evidence that the penis is the male reproductive or-
+gan is considered overwhelming and largely uncontroversial. It is true that nearly all male-gendered
+persons who were also male at birth have a genital organ that, among other purposes, carries the
+duct for the transfer of sperm during copulation. This organ is usually identified as the penis, and for
+many “males” it serves the role of their reproductive organ. There are, however, many examples of
+persons with penises who will not reproduce, including those who have sustained injury, are unable
+to coerce a mate, are uninterested in producing offspring, are medically infertile, or identify as asex-
+ual. While these examples may still constitute “males,” it is distinctly fallacious to identify their pe-
+nises as reproductive organs. Furthermore, there are many women who have penises. These are
+specifically pre-operative transgendered women and chromosomal “males” who choose to identify
+as women without indicating a desire to transition, and despite damaging cultural tropes against
+*Corresponding author: Jamie Lindsay,
+SEISRG – Southeast Independent Social
+Research Group, 512 N. Central Avenue,
+Knoxville, TN 37917, USA
+E-mail: jlind.seisrg@gmail.com
+Reviewing editor:
+Jamie Halsall, University of
+Huddersfield, UK
+Additional information is available at
+the end of the article
+ABOUT THE AUTHORS
+Jamie Lindsay, PhD, and Peter Boyle, EdD,
+represent a dynamic team of independent
+researchers working for the Southeast
+Independent Social Research Group, whose
+mission is obvious in its name. While neither uses
+Twitter, both finding the platform overly reductive,
+they incorporate careful reading of the relevant
+academic literature with observations made by
+searching trending hashtags to derive important
+social truths with high impact. In this case, their
+particular fascination with penises and the ways in
+which penises are socially problematic, especially
+as a social construct known as a conceptual
+penis, have opened an avenue to a new frontier
+in gender and masculinities research that can
+transform our cultural geographies, mitigate
+climate change, and achieve social justice.
+PUBLIC INTEREST STATEMENT
+Penises are problematic, and we don't just mean
+medical issues like erectile dysfunction and crimes
+like sexual assault. As a result of our research
+into the essential concept of the penis and its
+exchanges with the social and material world, we
+conclude that penises are not best understood as
+the male sexual organ, or as a male reproductive
+organ, but instead as an enacted social construct
+that is both damaging and problematic for society
+and future generations. The conceptual penis
+presents significant problems for gender identity
+and reproductive identity within social and family
+dynamics, is exclusionary to disenfranchised
+communities based upon gender or reproductive
+identity, is an enduring source of abuse for women
+and other gender-marginalized groups and
+individuals, is the universal performative source of
+rape, and is the conceptual driver behind much of
+climate change.
+https://doi.org/10.1080/23311886.2017.1330439
+their womanhood and femininity, these constitute critical examples of a human demographic for
+whom their genital organ, while it may be utilized reproductively in some cases, is not best under-
+stood as being a male genital organ (Hird, 2000).
+In light of these important facts about the wide diversity of human expression, including when
+specified to those humans bearing a penile genital organ, conceptualizing the penis as a specifically
+male anatomical organ is highly problematic and in critical need of discursive revision. Indeed, the
+penis vis-à-vis maleness is an incoherent construct. We argue that the conceptual penis is better
+understood not as an anatomical organ but as a gender-performative, highly fluid social construct.
+2. The conceptual penis
+The conceptual penis is the operative representation of the penis in society as it obtains via a variety
+of performative acts and statements related to and concerning gender. Conceptualization is the best
+way to understand the penis, as the notion of “penis as a male anatomical organ” suffers typical
+androcentric and meta-scientific limitations and errors as it is both overly reductive, in failing to
+represent the full reality of penis-bearing human experiences, and incoherent, as the penis itself has
+little or nothing to do with gender (West & Zimmerman, 1987). Consequently, what coherent role
+can a monolithic concept like “the penis” hope either to achieve or to describe for pre-operative and
+non-operative male-to-female trans women and post-operative female-to-male trans men who
+choose to retain their identity as women? Likewise, what meaning can the anatomical penis as a
+male organ possibly hold for gender fluid individuals or certain other individuals within the queer
+community? In the paradigm of the dominant penis-centered narrative, we find these questions in-
+trinsically unanswerable.
+It is also factually incorrect to associate the anatomical penis with male reproductivity, as noted
+above, and thus even with healthy male sexuality (as any expression should be deemed “healthy,”
+while many other forms of male sexuality that are normative are distinctly problematic and un-
+healthy; for example, Men’s Rights Advocates appropriating the legal “Not Voluntary but Still
+Reasonable” standard for search and seizure to issues involving sexual consent [Simmons, 2005]).
+That is, the conceptual penis is a performative social construct, and it is one that is isomorphic to an
+especially toxic strain of masculinity.
+Still, even as a social construct, the conceptual penis is hopelessly dominated by recalcitrant social
+constructions that favor hypermasculine interpretations of the penis as a notion unjustly associated
+with high male value (Schwalbe & Wolkomir, 2001). Many cisgendered hypermasculine males, for
+instance, seem to identify those aspects of their masculinity upon which they most obviously de-
+pend with the notion that they carry their penis as a symbol of male power, domination, control,
+capability, desirability, and aggression (The National Coalition for Men “compile[d] a list of synonyms
+for the word penis [sic],” these include the terms “beaver basher,” “cranny axe,” “custard launcher,”
+“dagger,” “heat-seeking moisture missile,” “mayo shooting hotdog gun,” “pork sword,” and “yogurt
+shotgun” [2011]). Based upon an appreciable corpus of feminist literature on the penis, this troubling
+identification results in an effective isomorphism linking the conceptual penis with toxic
+hypermasculinity.
+2.1. Machismo braggadocio
+Inasmuch as masculinity is essentially performative, so too is the conceptual penis. The penis, in the
+words of Judith Butler, “can only be understood through reference to what is barred from the signi-
+fier within the domain of corporeal legibility” (Butler, 1993). The penis should not be understood as
+an honest expression of the performer’s intent should it be presented in a performance of masculin-
+ity or hypermasculinity. Thus, the isomorphism between the conceptual penis and what’s referred to
+throughout discursive feminist literature as “toxic hypermasculinity,” is one defined upon a vector of
+male cultural machismo braggadocio, with the conceptual penis playing the roles of subject, object,
+and verb of action. The result of this trichotomy of roles is to place hypermasculine men both within
+and outside of competing discourses whose dynamics, as seen via post-structuralist discourse
+Machismo is essentially aggressive male pride, whereas braggadocio is a quality of arrogant boast-
+fulness. These together can be taken as a concrete description of the typical performative expres-
+sion of maleness and hegemonic entrenched male power dynamics through the object of the penis,
+as the socially masculine mind conceptualizes it and the heteronormative female mind too typically
+has been socially indoctrinated to fetishize it. Through self-objectification in the conceptual penis,
+hypermasculinity, which abhors weakness in all its forms, seeks to reposition itself from a powerless
+subject position to a powerful one. Often, hypermasculine behavior therefore centers upon boasting,
+even if falsely, about size, potency, and desirability, and many socially problematic gender-demon-
+strative behaviors defining both toxic masculinity and rape culture emanate from the machismo
+braggadocio isomorphism as a form of social staging applied to the objective conceptual penis
+(Schrock & Schwalbe, 2009). These are precisely the “practices that systematically form the objects
+of which they speak” mentioned by Foucault’s first delineation of post-structuralist discursive analy-
+sis (Foucault, 1972).
+Nowhere more does this problematic construction compare than with the “hegemonic masculin-
+ity and cultural construction” presented in the “essence of the hard-on” (Potts, 2000). Potts (2000)
+illustrates that the functioning (or lack thereof) of the [conceptual] penis “demonstrates the inscrip-
+tion on individual male bodies of a coital imperative: the surface of the male body interfuses with
+culture to produce the ‘fiction’ of a dysfunctional nonpenetrative male (hetero)sexuality.” This is
+clear power-dynamical repositioning to alleviate the internal psychological struggle of weakness via
+hypermasculinity and an essential fear of weakness that characterizes hypermasculinity itself. We
+therefore further agree with Potts that “by relinquishing the penis’s executive position in sex, male
+bodies might become differently inscribed, and coded for diverse pleasures beyond the phallus/pe-
+nis,” and we insist that understanding the objective isomorphic mapping between phallus and (con-
+ceptual) penis is a necessary discursive element to changing the prevailing penile social paradigm.
+The constructed intersection of the anatomical penis and the performative conceptual penis defines
+the problematic relationship masculinity presents for male bodies and their impacts upon women in
+our pre-post-patriarchal societies.
+In addition to self-objectification, the conceptual penis can, intrinsically to the machismo bragga-
+docio isomorphic map, express itself as the subject of toxic masculinity. The hypermasculine mental-
+ity often conflates the socialized male individual as an inscribed and embodied extension of his
+conceptual penis. Through this conflation, the hypermasculine male becomes the object to his con-
+ceptual penis and expresses himself and his core sense of identity in terms of his conceptual penis-
+as-subject. Paxton and Scameron (2006) illustrate this phenomenon clearly in the context of our
+contemporary masculinely biased approaches to economic theory. They write, “The premise of neo-
+capitalist materialist theory implies that sexual identity has objective value. Therefore, the premise of
+postcapitalist sublimation implies that sexuality serves to oppress the underprivileged. Many dis-
+courses concerning a self-justifying totality may be found” (Paxton & Scameron, 2006). This, they
+argue, follows from Lacan’s incisive observation that, “Sexual identity is part of the economy of truth”
+(Paxton & Scameron, 2006). The conceptual penis, taken as the subject, often has the consequence
+of promoting oppression of the underprivileged by the misunderstanding that (male) sexual identity
+has objective value, particularly in repositioning the powerless hypermasculine male subject as pow-
+erful in and by means of his conceptual penis. This value is typically defined by the machismo brag-
+gadocio penile isomorphism between inscriptive object and discursive, thus prescriptive, subject.
+When hypermasculine males see themselves as potent, dominant, controlling, or desirable, it is
+often an artifact of the machismo braggadocio isomorphism acting to make the conceptual penis the
+subject of their performed sense of identity. Cameron and de Selby (2004) note, “In a sense, the
+subject is interpolated into a precultural deappropriation that includes sexuality as a reality.” This is
+clearly experienced via the machismo braggadocio constructural isomorphism between the concep-
+tual penis and pervasive toxic hypermasculine mentalities and behaviors. For example, this can be
+seen in male bragging about their sexual “conquests” and boasting about their sexual “perfor-
+mance,” but also in male language with speech acts like, “I gave it to her,” and “She couldn’t get
+enough of it” (In the latter cases, the noun “it” turns the objective conceptual penis into the per-
+ceived subject of female experience, further objectifying the conceptual penis vis-à-vis male gender
+performance). The conceptual penis thereby becomes a deappropriative tool through which the pe-
+nis-as-subject makes the (male) sexuality a potent reality in the hypermasculine mind.
+The ultimately performative nature of hypermasculinity via the machismo braggadocio isomor-
+phism is most evident in “male” behaviors typical of many men to reject emotional expressions as
+feminine. For example, compassion is generally avoided under machismo braggadocio subject
+performances, as are emotional expressions other than dominant, aggressive ones like anger and
+irascibility (Ben-Zeev, Scharnetzki, Chan, & Dennehy, 2012). As Scheff (2006) points out, “The hyper-
+masculine pattern leads to competition, rather than connection between persons.” The performa-
+tive nature of male-on-male competition is reflected into the conceptual penis via the machismo
+braggadocio isomorphism not only through the behavior, but additionally in phrases regarding toxic
+hypermasculine competitiveness like “pissing contest,” in which winners are determined by which
+hypermasculine person is able to project a stream of urine the furthest, often from a height, and
+“dick-measuring contest,” which needs no elaboration to unveil the direct impact of performative
+machismo braggadocio competitiveness.
+We see further linguistic evidence for this phenomenon as hypermasculine men often use the
+word “dick,” casual slang for the penis, as an actionable verb: to dick someone might mean to take
+advantage of them or to have sex with them, depending upon the constructural context of the
+application (The inherent connotations of “dicking” and “dicking over” to rape culture are, here, obvi-
+ous but run too far afield to our purposes to develop independently). Hypermasculine tropes often
+take advantage of this penis-as-verb surjection to express themes of male power and dominant
+male sexuality (confer: the frequent use of the sexually objectifying hypermasculine phrase,
+“I dicked her good”), allowing hypermasculine males to intuit the interplay of various discourses
+behind their subject positions and to shift them accordingly within specific settings, especially imag-
+ined and real sexual encounters with real and virtual women (or other men, as applicable). This they
+also conflate with expressing power dynamics over other men, as exemplified in the phrase,
+“I dicked him over,” which presents iconic male hegemonic thinking, per Duncanson (2015).
+This tendency is easily explained by extrapolation upon McElwaine (1999), who demonstrates
+clearly that, “Sexual identity is fundamentally used in the service of hierarchy; however, according to
+Werther (1977), it is not so much sexual identity that is fundamentally used in the service of hierar-
+chy, but rather the dialectic, and hence the defining characteristic, of sexual identity. The subject is
+contextualised into a subcultural desituationism that includes sexuality as a reality.” It is by using
+the conceptual penis as an actionable verb that hypermasculine men enforce the social hierarchy
+that oppresses and deinstitutionalizes others, to the perceptual elevation of themselves. It is illus-
+trated clearly by Kubrin and Weitzer (2009) in their analysis of misogyny in rap music, in which they
+observe, “Content analysis identified five gender-related themes in this body of music—themes that
+contain messages regarding ‘essential’ male and female characteristics and that espouse a set of
+conduct norms for men and women.” It is also observable in the hypermale-performative behavioral
+trope of “manspreading,” that is, inconsiderately spreading his legs too widely in public, for example
+on public transport such as planes, trains, and automobiles, especially subways and buses. The usual
+excuse given for manspreading is centered directly in the conceptual penis as a male social dis-
+course: the (anatomical) penis and testicles are attributed as needing space in order to facilitate the
+male individual’s “comfort.” This behavior, seen from the perspective of the (conceptual) penis as a
+(performative) social construct, is clearly a dominating occupation of physical space, akin to raping
+the empty space around him, that is best understood via the machismo braggadocio isomorphism to
+toxic hypermasculinity (Perkins, 2015).
+Machismo is the hypermasculine essence, and braggadocio is the hypermasculine expression. The
+penis as a conceptual element of contemporary thought is naturally isomorphic by notion of
+machismo braggadocio to the most toxic and problematic themes in hypermasculinity. It is important
+to be clear that none of these themes are applicable to the anatomical penis as they are incoherent
+to many gender identifications that happen to present a penis as a genital organ. Similarly, none of
+these themes are applicable to the reproductive penis as they fail to possess relevance for
+non-reproductive or asexual individuals with a genital penis. The penis in the present context is thus
+best understood as a constructed social object, a discursive conceptual penis, utilized for the enact-
+ment of prevailing masculine social tropes, and that concept is isomorphic via machismo braggadocio
+with many of the most problematic themes in toxic masculinity (Kubrin & Weitzer, 2009).
+2.2. Climate change and the conceptual penis
+Nowhere are the consequences of hypermasculine machismo braggadocio isomorphic identification
+with the conceptual penis more problematic than concerning the issue of climate change. Climate
+change is driven by nothing more than it is by certain damaging themes in hypermasculinity that can
+be best understood via the dominant rapacious approach to climate ecology identifiable with the con-
+ceptual penis. Our planet is rapidly approaching the much-warned-about 2°C climate change thresh-
+old, and due to patriarchal power dynamics that maintain present capitalist structures, especially with
+regard to the fossil fuel industry, the connection between hypermasculine dominance of scientific,
+political, and economic discourses and the irreparable damage to our ecosystem is made clear.
+Destructive, unsustainable hegemonically male approaches to pressing environmental policy and
+action are the predictable results of a raping of nature by a male-dominated mindset. This mindset
+is best captured by recognizing the role of the conceptual penis holds over masculine psychology.
+When it is applied to our natural environment, especially virgin environments that can be cheaply
+despoiled for their material resources and left dilapidated and diminished when our patriarchal ap-
+proaches to economic gain have stolen their inherent worth, the extrapolation of the rape culture
+inherent in the conceptual penis becomes clear. At best, climate change is genuinely an example of
+hyper-patriarchal society metaphorically manspreading into the global ecosystem.
+The deep reason for this problematic trend is explained, in its essence, by McElwaine (1999), where
+he writes, “Pickett suggests that we have to choose between capitalist rationalism and cultural sub-
+capitalist theory” (Pickett, 1993). Contemporary capitalist theory, a.k.a. neocapitalist theory, derives
+its claim on rationalism directly from the hypermasculine focus in science and society that can best
+be accounted for by identification with the conceptual penis. Paxton and Scameron (2006) seem to
+agree, noting that, “neocapitalist materialist theory holds that reality comes from the collective
+unconscious, but only if the premise of dialectic objectivism is invalid; if that is not the case, sexuality
+has significance.” Toxic hypermasculinity derives its significance directly from the conceptual penis
+and applies itself to supporting neocapitalist materialism, which is a fundamental driver of climate
+change, especially in the rampant use of carbon-emitting fossil fuel technologies and careless domi-
+nation of virgin natural environments. We need not delve deeply into criticisms of dialectic objectiv-
+ism, or their relationships with masculine tropes like the conceptual penis to make effective criticism
+of (exclusionary) dialectic objectivism. All perspectives matter.
+One practical recommendation that follows from this analysis is that climate change research
+would be better served by a change in how we engage in the discourses of politics and science,
+avoiding the hypermasculine penis-centric take whenever possible (Kaijser & Kronsell, 2013).
+3. Conclusions
+We conclude that penises are not best understood as the male sexual organ, or as a male reproduc-
+tive organ, but instead as an enacted social construct that is both damaging and problematic for
+society and future generations. The conceptual penis presents significant problems for gender iden-
+tity and reproductive identity within social and family dynamics, is exclusionary to disenfranchised
+communities based upon gender or reproductive identity, is an enduring source of abuse for women
+and other gender-marginalized groups and individuals, is the universal performative source of rape,
+and is the conceptual driver behind much of climate change.
+An explicit isomorphic relationship exists between the conceptual penis and the most problematic
+themes in toxic masculinity, and that relationship is mediated by the machismo braggadocio aspect
+of male hypermasculine thought and performance. A change in our discourses in science, technol-
+ogy, policy, economics, society, and various communities is needed to protect marginalized groups,
+promote the advancement of women, trans, and gender-queer individuals (including non-gendered
+and gender-skeptical people), and to remedy environmental impacts that follow from climate
+change driven by capitalist and neocapitalist overreliance on hypermasculine themes and exploita-
+tive utilization of fossil fuels.
