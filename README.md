@@ -15,29 +15,27 @@ Alongside creating a modern reading experience, the project aims to analyze epis
 
 The Encyclopædia Britannica was first published in Edinburgh between 1768 and 1771 and gradually evolved into one of the most authoritative reference works of the Western world. Over the centuries, it expanded through multiple editions, shifting from a concise digest to a sprawling scholarly enterprise by the early 20th century.
 
-The 11th edition, published in 1910–1911, marked the peak of this effort. Spanning 29 volumes and roughly 30,000 printed pages, it contains around 40,000 articles written by over 1,500 contributors—many of them leading figures in their fields, including Bertrand Russell, T.H. Huxley, and Swinburne. It was the last edition compiled entirely in the United Kingdom before editorial control moved to the United States. The complete set was priced at $32 in 1911, equivalent to about $1,000 today, making it a major investment for middle-class households. In terms of scale, the full text comes to approximately 250–300 MB of raw OCR, or around 50 million words.
+The 11th edition, published in 1910–1911, marked the peak of this effort. Spanning 29 volumes and roughly 30,000 printed pages, it contains around 40,000 articles written by over 1,500 contributors—many of them leading figures in their fields, including Bertrand Russell, T.H. Huxley, and Swinburne. It was the last edition compiled entirely in the United Kingdom before editorial control moved to the United States. The complete set was priced at $32 in 1911, equivalent to about $1,000 today.
 
 By contrast, Wikipedia’s English edition now exceeds 6 million articles and an estimated 4 billion words. However, fewer than 10% of its contributors have formal training in the subjects they edit. While Wikipedia’s scale is orders of magnitude larger—nearly 100 times in terms of total word count—the number of curated, high-quality "featured articles" is only around 6,000. Viewed this way, EB11's achievement remains impressive: it concentrated expert-authored, editorially curated content into a durable print form with a quality and consistency that a decentralized model still rarely matches.
 
-This makes the 11th edition not just a historical curiosity but a valuable counterpoint to Wikipedia—useful for studying how language, authority, and framing have evolved over the past century.
+This makes the 11th edition not just a historical curiosity but a valuable counterpoint to Wikipedia, not only because many of the information contained is still valid or valuable, but also because where content and language did change, it presents an interesting framework for studying how language, authority, and framing have evolved over the past century.
 
 ---
 
 ## Extracted Text Database
 
-### Current Pipeline
+The text is extracted from OCR scans of the 1911 Encyclopædia Britannica, parsed into individual articles, and stored in a structured MySQL database (see schema.sql). Each article is embedded using a pre-trained sentence-transformers model, allowing semantic similarity comparisons within the corpus and against external texts.
 
-- Source: OCR text from archive.org scans of EB11 volumes
-- Cleaning: Articles segmented and reconstructed using a custom parser
-- Database: MySQL (schema included in `schema.sql`)
-- Embeddings: Each article is vectorized using `sentence-transformers` for semantic similarity
-- Web UI: Live at [https://eb.kallisti.ch](https://eb.kallisti.ch)
+Web UI: Live at [https://eb.kallisti.ch](https://eb.kallisti.ch)
 
-### Features
+#### Features
 
 - Full-text search across articles
 - Semantic similarity queries using vector embeddings
 - Structured metadata and canonical titles
+
+Due to the quality of the original OCR, the dataset includes formatting issues, occasional data loss, missing figures, tables, and footnotes, and makes contributor attribution difficult. These limitations are addressed further in the OCR section below.
 
 ---
 
