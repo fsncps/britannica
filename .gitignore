@@ -1,1 +1,19 @@
+## dumps
 db/britannica_text_schema.sql.gz
+
+
+# Environment config (secrets)
+.env
+
+# Composer dependencies
+/vendor/
+/composer.lock
+
+# System and IDE junk
+*.log
+*.swp
+*.swo
+*.bak
+.DS_Store
+Thumbs.db
+

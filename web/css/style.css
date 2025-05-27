@@ -1,0 +1,26 @@
+#popup {
+    position: fixed;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+    background: white;
+    border: 2px solid #333;
+    padding: 20px;
+    overflow-y: auto;
+    z-index: 1000;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+}
+#popup.hidden {
+    display: none;
+}
+#popup-close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background: #eee;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
