@@ -81,10 +81,8 @@ The pipeline includes:
 The aim is not just to improve text quality, but to recover the visual and semantic structure of the original printed encyclopedia in a portable, structured form.
 
 ---
----
----
----
----
+
+## Contributions welcome!
 
 If you're interested in contributing anything, feel free to open an issue or pull request.
 
