@@ -37,13 +37,13 @@ Due to the quality of the original OCR, the dataset includes formatting issues, 
 
 ## Evolution of Language and Framing Trends
 
-We want to trace how knowledge changes—not only in content, but in tone, framing, and rhetorical posture. While shaped by the norms of its time, the EB11 articles are rarely obsolete in the sense that they are refuted, but rather merely incomplete from a more modern perspective.[^1] Language use and represented views have certainly changed as well, but likewise, the changes are rather subtle.[^2] To examine how much framing and subtext changes, we want to compare the EB11 articles to their modern Wikipedia counterparts and see which kind of articles exhibit the greatest cosine deviations over a common vector space.
+We want to trace how knowledge changes—not only in content, but in tone, framing and rhetorical posture. While shaped by the norms of its time, the EB11 articles are rarely obsolete in the sense that they are refuted, but rather merely incomplete from a more modern perspective.[^1] Language use and represented views have certainly changed as well, but likewise, the changes are rather subtle.[^2] To examine how much framing and subtext changes, we want to compare the EB11 articles to their modern Wikipedia counterparts and see which kind of articles exhibit the greatest cosine deviations over a common vector space.
 
 ### Semantic Drift
 
 What is considered adequate vocabulary or desirable rhetoric has obviously changed, and it has changed with varying degrees and trends for different genres and social groups. EB11 offers a stable historical baseline for such comparison. The intuitive expectation is that articles on sexuality or imperial politics will drift more and that articles on integral algebra or ducks will be rather static in terms rhetoric and subtext, but this is yet to be tested. It is possible that a shift in editorial expectations and epistemic standards have changed encyclopedic language just as much as political changes or shifts of dominant views.  
 
-To measure this, we embed Britannica and Wikipedia articles into the same semantic space using pre-trained transformer models such as all-MiniLM-L6-v2 or BGE-small-en. These sentence embedding models compress each article into a vector—typically 384 or 768 dimensions—that captures patterns of semantic usage: not only what is said, but how it is said. By comparing the cosine distance between matched articles, we can estimate how much a topic’s framing has changed.
+To measure this, we embed Britannica and Wikipedia articles into the same semantic space using pre-trained transformer models such as all-MiniLM-L6-v2 or BGE-small-en. These sentence embedding models compress each article into a vector—typically 384 or 768 dimensions—that captures patterns of semantic usage. By comparing the cosine distance between matched articles, we can estimate how much a topic’s framing has changed.
 
 ### Fnords
 
@@ -71,7 +71,7 @@ The available OCR text of EB11, although usable, suffers from significant layout
 
 - Two-column layouts being misread as single-column text
 - Text below figures or tables being discarded
-- Headings, lists, and formatting being inconsistently captured
+- Headings, lists and formatting being inconsistently captured
 - Tables and diagrams lost entirely or inserted incorrectly into text flow
 
 To address this, we are developing an improved OCR pipeline using:
