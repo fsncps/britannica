@@ -37,7 +37,7 @@ Due to the quality of the original OCR, the dataset includes formatting issues, 
 
 ## Evolution of Language and Framing Trends
 
-We want to trace how knowledge changes—not only in content, but in tone, framing, and rhetorical posture. While shaped by the norms of its time, the EB11 articles are rarely obsolete in the sense that they are refuted, but rather merely incomplete from a more modern perspective.[^1] Language use and represented views have certainly changed as well, but likewise, the changes are rather subtle. To examine how much framing and subtext changes, we want to compare the EB11 articles to their modern Wikipedia counterparts and see which kind of articles exhibit the greatest cosine deviations over a common vector space.
+We want to trace how knowledge changes—not only in content, but in tone, framing, and rhetorical posture. While shaped by the norms of its time, the EB11 articles are rarely obsolete in the sense that they are refuted, but rather merely incomplete from a more modern perspective.[^1] Language use and represented views have certainly changed as well, but likewise, the changes are rather subtle.[^2] To examine how much framing and subtext changes, we want to compare the EB11 articles to their modern Wikipedia counterparts and see which kind of articles exhibit the greatest cosine deviations over a common vector space.
 
 ### Semantic Drift
 
