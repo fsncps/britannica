@@ -67,32 +67,23 @@ The Wikipedia data dumps are huge, so we can't have them in a repo. [Wikimedia](
 
 ## OCR Reprocessing Plan
 
-The available OCR text of EB11, although usable, suffers from significant layout misinterpretations. Major issues include:
+The currently available OCR output from EB11 volumes, while usable for basic extraction, suffers from serious structural flaws. The underlying scans are high-quality, but the automated text recognition—mostly performed years ago using generic settings—fails to capture much of the document’s original layout and semantics. The two-column format typical of EB11 is frequently misread as a continuous single column. Figures, tables, and captions are often misplaced or omitted entirely. Headings, list formatting, footnotes, and contributor attributions are inconsistently captured, and in some cases dropped altogether. This results in articles that are legible but structurally degraded, limiting both readability and recoverability.
 
-- Two-column layouts being misread as single-column text
-- Text below figures or tables being discarded
-- Headings, lists and formatting being inconsistently captured
-- Tables and diagrams lost entirely or inserted incorrectly into text flow
+To address this, we are developing an improved OCR and post-processing pipeline with the goal of reconstructing each article as a clean Markdown document that mirrors the original formatting as closely as possible.
 
-To address this, we are developing an improved OCR pipeline using:
+The pipeline includes:
 
-- Tesseract 5 with layout-aware configuration (`--psm 1`, TSV and hOCR output)
-- Preprocessing steps using OpenCV: deskewing, denoising, contrast enhancement
-- Markdown reconstruction based on block position, indentation, font size, and alignment
-- Table detection using spatial heuristics and image snapshots (PNG) for fallback
+- Tesseract 5, with layout-aware page segmentation (--psm 1) and output in TSV or hOCR format
+- OpenCV-based preprocessing, including deskewing, denoising, and contrast adjustment
+- Markdown reconstruction, based on visual layout features such as block alignment, indentation, font size, and heading placement
+- Table recognition and fallback, using spatial heuristics to extract simple tables or retain complex ones as embedded image snapshots
 
-The goal is to produce semantically faithful Markdown documents for each article, preserving the layout and formatting as close as possible to the original.
+The aim is not just to improve text quality, but to recover the visual and semantic structure of the original printed encyclopedia in a portable, structured form.
 
 ---
+---
 
-If you're interested in helping with:
-
-- Re-OCR tuning and table extraction
-- Wikipedia mapping and alignment
-- Epistemic comparison methods
-- Markdown generation from OCR data
-
-…feel free to open an issue or pull request.
+If you're interested in contributing anything, feel free to open an issue or pull request.
 
 ---
 
