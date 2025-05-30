@@ -15,7 +15,7 @@ The 11th edition, published in 1910–1911, marked the peak of this effort. Span
 
 By contrast, Wikipedia’s English edition now exceeds 6 million articles and an estimated 4 billion words. However, fewer than 10% of its contributors have formal training in the subjects they edit. While Wikipedia’s scale is orders of magnitude larger—nearly 100 times in terms of total word count—the number of curated, high-quality "featured articles" is only around 6,000. Viewed this way, EB11's achievement remains impressive: it concentrated expert-authored, editorially curated content into a durable print form with a quality and consistency that a decentralized model still rarely matches.
 
-This makes EB11 not just a historical curiosity but a valuable counterpoint to Wikipedia, not only because many of the information contained is still valid or valuable, but also because where content and language did change, it presents an interesting framework for studying how language, authority, and framing have evolved over the past century.
+This makes EB11 not just a historical curiosity but a valuable counterpoint to Wikipedia, not only because many of the information contained is still valid or valuable, but also because where content and language did change, it presents an interesting framework for studying how language, authority and medial framing have evolved over the past century.
 
 ---
 
@@ -31,37 +31,10 @@ Web UI: Live at [https://eb.kallisti.ch](https://eb.kallisti.ch)
 - Semantic similarity queries using vector embeddings
 - Structured metadata and canonical titles
 
-Due to the quality of the original OCR, the dataset includes formatting issues, occasional data loss, missing figures, tables, and footnotes, and makes contributor attribution difficult. These limitations are addressed further in the OCR section below.
+#### TODO
 
----
-
-## Evolution of Language and Framing Trends
-
-We want to trace how knowledge changes—not only in content, but in tone, framing and rhetorical posture. While shaped by the norms of its time, the EB11 articles are rarely obsolete in the sense that they are refuted, but rather merely incomplete from a more modern perspective.[^1] Language use and represented views have certainly changed as well, but likewise, the changes are rather subtle.[^2] To examine how much framing and subtext changes, we want to compare the EB11 articles to their modern Wikipedia counterparts and see which kind of articles exhibit the greatest cosine deviations over a common vector space.
-
-### Semantic Drift
-
-What is considered adequate vocabulary or desirable rhetoric has obviously changed, and it has changed with varying degrees and trends for different genres and social groups. EB11 offers a stable historical baseline for such comparison. The intuitive expectation is that articles on sexuality or imperial politics will drift more and that articles on integral algebra or ducks will be rather static in terms rhetoric and subtext, but this is yet to be tested. It is possible that a shift in editorial expectations and epistemic standards have changed encyclopedic language just as much as political changes or shifts of dominant views.  
-
-To measure this, we embed Britannica and Wikipedia articles into the same semantic space using pre-trained transformer models such as all-MiniLM-L6-v2 or BGE-small-en. These sentence embedding models compress each article into a vector—typically 384 or 768 dimensions—that captures patterns of semantic usage. By comparing the cosine distance between matched articles, we can estimate how much a topic’s framing has changed.
-
-### Fnords
-
-Furthermore, for a qualitative assessment of how rhetoric framing shifts, we aim to identify *Fnords*—low-entropy linguistic units that aim to trigger a subconscious response in the audience irrelevant of what is being said, consisting of familiar combinations of words that operate through cliché, reduction and repetition. They are rarely domain-specific, but highly genre-specific. They are especially common in institutional, conspiratorial, polemical discourse or advertisement -- but they do creep in on medial frames and academic writing. 
-
-As a unit of disinformation, it also corresponds to what Harry Frankfurt has identified as Bullshit in the epistemic sense:[^3] it contrasts from a lie in that whereas the lie is concerned with concealing the truth and must therefore have some regard for truthiness, bullshit culture corrodes epistemic standards as a whole through its complete disregard of meaning in favour of showmanship. When clustered, fnords then form what could be called a jargon of bullshit: a patterned set of phrasings, tonal cues and discursive habits that collectively define a rhetorical style concerned more with effect than accuracy.
-
-To identify such fnordic dialects (e.g. "militaristic", "feminist", "bureaucratic"), we want to create fine-tuned vector spaces using highly polarizing, polemic, idiosyncratic text samples representative of a school of thought, political ideology or similar, and identify the archetypal patterns.
-
-Using such embeddings, we can see on what axis a semantic drift has taken place.
-
-### Data dumps
-
-The Wikipedia data dumps are huge, so we can't have them in a repo. [Wikimedia](https://dumps.wikimedia.org/enwiki/latest/) is ultra slow in providing them, but the [Uni of Oslo has a great mirror server](https://ftp.acc.umu.se/mirror/) which has [2025 dumps](https://ftp.acc.umu.se/mirror/wikimedia.org/dumps/enwiki/), and an old one from 2010 can be found [on archive.org](https://archive.org/details/enwiki_20100408).
-
-[^1]: See e.g. the article on the atom, which surprisingly contains almost no falsehoods and could still be considered a relevant read today, if not from the theoretical-physical but rather a historical and philosophical angle.
-[^2]: E.g., articles about foreign geography or ethnology at times use language that would be considered inadequately colonial or Eurocentric today, but they very rarely advocate supremacist views or similar. Many topics considered politically delicate today are approached with some finesse and a rather neutral tone considering the publication date.
-[^3]: On Bullshit, 1986, [archived](https://archive.org/details/on-bullshit-by-harry-frankfurt).
+- Rescan OCR: Due to the quality of the original OCR, the dataset includes formatting issues, occasional data loss, missing figures, tables, and footnotes, and makes contributor attribution difficult (See OCR section below)
+- Wiki-style links: Create cross-references with links throughout the articles DB
 
 ---
 
@@ -81,6 +54,33 @@ The pipeline includes:
 The aim is not just to improve text quality, but to recover the visual and semantic structure of the original printed encyclopedia in a portable, structured form.
 
 ---
+
+## Evolution of Language and Framing Trends (a possible extra)
+
+While shaped by the norms of its time, the EB11 articles are rarely obsolete in the sense that they are refuted, but rather merely incomplete from a more modern perspective.[^1] Language use and represented views have certainly changed as well, but likewise, the changes are rather subtle.[^2] To examine how much framing and subtext changes, we want to compare the EB11 articles to their modern Wikipedia counterparts and see which kind of articles exhibit the greatest cosine deviations over a common vector space.
+
+### Semantic Drift
+
+What is considered adequate vocabulary or desirable rhetoric has obviously changed, and it has changed with varying degrees and trends for different genres and social groups. EB11 offers a stable historical baseline for such comparison. The intuitive expectation is that articles on sexuality or imperial politics will drift more and that articles on integral algebra or ducks will be rather static in terms rhetoric and subtext, but this is yet to be tested. It is possible that a shift in editorial expectations and epistemic standards have changed encyclopedic language just as much as political changes or shifts of dominant views.  
+
+To measure this, the plan here is to embed Britannica and Wikipedia articles into the same semantic space using pre-trained transformer models such as all-MiniLM-L6-v2 or BGE-small-en. These sentence embedding models compress each article into a vector that captures patterns of semantic usage. By comparing the cosine distance between matched articles, we can estimate how much a topic’s framing has changed.
+
+### Fnords
+
+Next, this makes it possible to identify *Fnords*—low-entropy linguistic units that aim to trigger a subconscious response in the audience irrelevant of what is being said, consisting of familiar combinations of words that operate through cliché, reduction and repetition. They are rarely domain-specific, but highly genre-specific. They are especially common in institutional, conspiratorial, polemical discourse or advertisement -- but they do creep in on medial frames and academic writing.[^3] 
+
+Clustering of certain types of these patterns could identify a sort of fnordic dialect (e.g. "militaristic", "postmodern", "bureaucratic"). To benchmark, a possible approach could be to create fine-tuned vector spaces using highly polarizing, polemic, idiosyncratic text samples representative of a school of thought, political ideology or similar, and identify the archetypal patterns. The fnordic embedding could then show on what axis a semantic drift has taken place.
+
+### Data dumps
+
+The Wikipedia data dumps are huge, so we can't have them in a repo. [Wikimedia](https://dumps.wikimedia.org/enwiki/latest/) is ultra slow in providing them, but the [Uni of Oslo has a great mirror server](https://ftp.acc.umu.se/mirror/) which has [2025 dumps](https://ftp.acc.umu.se/mirror/wikimedia.org/dumps/enwiki/), and an old one from 2010 can be found [on archive.org](https://archive.org/details/enwiki_20100408).
+
+[^1]: See e.g. the article on the atom, which surprisingly contains almost no falsehoods and could still be considered a relevant read today, if not from the theoretical-physical but rather a historical and philosophical angle.
+[^2]: E.g., articles about foreign geography or ethnology at times use language that would be considered inadequately colonial or Eurocentric today, but they very rarely advocate supremacist views or similar. Some topics considered politically delicate today are and a rather neutral tone considering the publication date.
+[^3]: As a unit of disinformation, it also corresponds to what Harry Frankfurt has identified as Bullshit in the epistemic sense: it contrasts from a lie in that whereas the lie is concerned with concealing the truth and must therefore have some regard for truthiness, bullshit culture corrodes epistemic standards as a whole through its complete disregard of meaning in favour of showmanship. When clustered, fnords then form what could be called a jargon of bullshit: a patterned set of phrasings, tonal cues and discursive habits that collectively define a rhetorical style concerned more with effect than accuracy. (On Bullshit, 1986, [archived](https://archive.org/details/on-bullshit-by-harry-frankfurt).)
+
+---
+
 
 ## Contributions welcome!
 
