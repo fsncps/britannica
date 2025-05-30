@@ -1,6 +1,6 @@
 # Encyclopedia Britannica 11th Edition (1911) Clone
 
-A public-domain preservation and transformation project. The aim is to make the *1911 Encyclopædia Britannica 11th edition* (EB11) fully accessible in modern formats: searchable, cleanly structured and analyzable. EB11 remains one of the most ambitious encyclopedic projects in history, but its text has never been systematically digitized and formatted. Alongside creating a modern reading experience, the project aims to analyze epistemic and rhetorical shifts by comparing EB11 articles to their modern Wikipedia counterparts.
+A public-domain preservation and transformation project. The aim is to make the *1911 Encyclopædia Britannica 11th edition* (EB11) fully accessible in modern formats: searchable, cleanly structured and analyzable. EB11 remains one of the most ambitious encyclopedic projects in history, but its text has never been systematically digitized and formatted. So far, we have recorded the availbale OCR data in a searchable DB, however, the text is only about 75% complete, and the tables and figures are missing. OCR reprocessing will be necessary with care to detail and modern tools.
 
 **[HERE](https://eb.kallisti.ch)** is the first version of extracted texts.
 
@@ -23,7 +23,7 @@ This makes EB11 not just a historical curiosity but a valuable counterpoint to W
 
 Archive.org has [OCR scans of EB11](https://archive.org/details/encyclopedia-britannica-volume-14_202405/Encyclopedia%20Britannica%2C%20Volume%201/), which have been parsed into individual articles, and stored in a structured MySQL database (see schema.sql). Each article is embedded using a pre-trained sentence-transformers model, allowing semantic similarity comparisons within the corpus and against external texts.
 
-Web UI: Live at [https://eb.kallisti.ch](https://eb.kallisti.ch)
+Web UI: Prototype live at [https://eb.kallisti.ch](https://eb.kallisti.ch)
 
 #### Features
 
@@ -50,6 +50,7 @@ The pipeline includes:
 - OpenCV-based preprocessing, including deskewing, denoising, and contrast adjustment
 - Markdown reconstruction, based on visual layout features such as block alignment, indentation, font size, and heading placement
 - Table recognition and fallback, using spatial heuristics to extract simple tables or retain complex ones as embedded image snapshots
+- Create heading anchors in pdfs for precise linking
 
 The aim is not just to improve text quality, but to recover the visual and semantic structure of the original printed encyclopedia in a portable, structured form.
 
