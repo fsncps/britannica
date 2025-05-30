@@ -9,7 +9,7 @@ if (!isset($_GET['id']) || !is_numeric($_GET['id'])) {
 
 $id = (int) $_GET['id'];
 
-$stmt = $pdo->prepare("SELECT title, content FROM articles_1911 WHERE id = ?");
+$stmt = $pdo->prepare("SELECT title, content FROM articles_1911_2 WHERE id = ?");
 $stmt->execute([$id]);
 $article = $stmt->fetch(PDO::FETCH_ASSOC);
 

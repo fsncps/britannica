@@ -1,0 +1,7 @@
+{
+    "name": "fsncps/eb",
+    "description": "EB11_web",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}

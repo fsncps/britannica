@@ -1,14 +1,15 @@
 <?php
 include 'includes/db.php';
-
+include 'includes/header.php';
 $id = isset($_GET['id']) ? (int)$_GET['id'] : 0;
-$stmt = $pdo->prepare("SELECT title, content FROM articles_1911 WHERE id = ?");
+$stmt = $pdo->prepare("SELECT title, content FROM articles_1911_2 WHERE id = ?");
 $stmt->execute([$id]);
 $article = $stmt->fetch(PDO::FETCH_ASSOC);
 
-include 'includes/header.php';
+
 ?>
 
+<div class="container">
 <article>
     <?php if ($article): ?>
         <h2><?= htmlspecialchars($article['title']) ?></h2>
@@ -17,6 +18,8 @@ include 'includes/header.php';
         <p>Article not found.</p>
     <?php endif; ?>
 </article>
+
+</div>
 
 <?php include 'includes/footer.php'; ?>
 
