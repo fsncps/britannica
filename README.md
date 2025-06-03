@@ -35,6 +35,8 @@ Web UI: Prototype live at [https://eb.kallisti.ch](https://eb.kallisti.ch)
 
 - Rescan OCR: Due to the quality of the original OCR, the dataset includes formatting issues, occasional data loss, missing figures, tables, and footnotes, and makes contributor attribution difficult (See OCR section below)
 - Wiki-style links: Create cross-references with links throughout the articles DB
+- Reference authors and contributors per article
+- Embed into vector space for similarity search
 
 ---
 
