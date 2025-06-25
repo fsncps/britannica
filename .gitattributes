@@ -1,0 +1,4 @@
+source/ linguist-vendored
+*.pdf linguist-generated
+*.bz2 linguist-generated
+
